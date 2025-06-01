@@ -1,0 +1,20 @@
+{
+  "name": "customerlabs",
+  "version": "1.0.0",
+  "description": "assessment",
+  "main": "assessment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node assessment"
+  },
+  "author": "premkumar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "body-parser": "^2.2.0",
+    "crypto": "^1.0.1",
+    "express": "^5.1.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
